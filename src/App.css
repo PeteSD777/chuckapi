@@ -1,0 +1,41 @@
+.Rectangle-5 {
+  margin-left: 32%;
+
+  width: 555px;
+  height: 704px;
+  padding: 48px 58px 72px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.08);
+  background-color: white;
+  text-align: center;
+}
+.joke {
+  width: 100%;
+  height: 66px;
+  margin: 24px 0 32px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: black;
+}
+.chuck {
+  width: 90%;
+
+  object-fit: contain;
+}
+.name {
+  width: 360px;
+  position: absolute;
+  margin-top: 100px;
+}
+.button {
+  width: 360px;
+}
+#dropdown-basic-button {
+  width: 360px;
+}
