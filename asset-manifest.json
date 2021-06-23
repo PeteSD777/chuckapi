@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chuckapi/static/css/main.c24ed016.chunk.css",
+    "main.js": "/chuckapi/static/js/main.d14f9099.chunk.js",
+    "main.js.map": "/chuckapi/static/js/main.d14f9099.chunk.js.map",
+    "runtime-main.js": "/chuckapi/static/js/runtime-main.ce48b958.js",
+    "runtime-main.js.map": "/chuckapi/static/js/runtime-main.ce48b958.js.map",
+    "static/css/2.150d169a.chunk.css": "/chuckapi/static/css/2.150d169a.chunk.css",
+    "static/js/2.52220662.chunk.js": "/chuckapi/static/js/2.52220662.chunk.js",
+    "static/js/2.52220662.chunk.js.map": "/chuckapi/static/js/2.52220662.chunk.js.map",
+    "static/js/3.51acee37.chunk.js": "/chuckapi/static/js/3.51acee37.chunk.js",
+    "static/js/3.51acee37.chunk.js.map": "/chuckapi/static/js/3.51acee37.chunk.js.map",
+    "index.html": "/chuckapi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/chuckapi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c24ed016.chunk.css.map": "/chuckapi/static/css/main.c24ed016.chunk.css.map",
+    "static/js/2.52220662.chunk.js.LICENSE.txt": "/chuckapi/static/js/2.52220662.chunk.js.LICENSE.txt",
+    "static/media/Chuck.60fc7a34.jpg": "/chuckapi/static/media/Chuck.60fc7a34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce48b958.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.52220662.chunk.js",
+    "static/css/main.c24ed016.chunk.css",
+    "static/js/main.d14f9099.chunk.js"
+  ]
+}
